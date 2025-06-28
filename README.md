@@ -51,7 +51,7 @@ Ushbu loyiha `Bitcoin (BTC)`, `Ethereum (ETH)` va `Solana (SOL)` kriptovalyutala
 
 ## 📁 Loyihadagi fayllar:
 
-- `crypto_analysis.ipynb` – Asosiy tahlil notebuki
+- `crypto_price_analysis.ipynb` – Asosiy tahlil notebuki
 - `images/` – Grafiklar papkasi
 - `README.md` – Loyihaning tavsif fayli
 
